@@ -1,5 +1,6 @@
 # spring_study
-
+![Springboot-v](https://img.shields.io/badge/Spring_boot-v2.4.1-brightgreen)
+![Java-v](https://img.shields.io/badge/Java-v11.0.8-blue)
 ### Study Record
 
 2020.12.24
