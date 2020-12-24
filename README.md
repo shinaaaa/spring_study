@@ -4,6 +4,10 @@
 ### Study Record
 
 2020.12.24
+make Test Code
+2020.12.24
+Make domain and Repository
+2020.12.24
 Spring API
 
 2020.12.23
