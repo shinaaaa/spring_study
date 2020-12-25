@@ -4,14 +4,16 @@
 ### Study Record
 
 2020.12.25
-Make Service Test Code
+Write Spring Bin(Component Scan)<br>
+2020.12.25
+Make Service Test Code<br>
 2020.12.25
 make Service
 
 2020.12.24
-make Test Code
+make Test Code<br>
 2020.12.24
-Make domain and Repository
+Make domain and Repository<br>
 2020.12.24
 Spring API
 

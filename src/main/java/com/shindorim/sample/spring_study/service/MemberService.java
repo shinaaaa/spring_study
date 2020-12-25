@@ -2,16 +2,19 @@ package com.shindorim.sample.spring_study.service;
 
 import com.shindorim.sample.spring_study.domain.Member;
 import com.shindorim.sample.spring_study.repository.MemberRepository;
-import com.shindorim.sample.spring_study.repository.MemoryMemberRepository;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 import java.util.Optional;
 
+@Service
 public class MemberService {
 
     private final MemberRepository memberRepository;
 
     // Dependency Injection
+    @Autowired
     public MemberService(MemberRepository memberRepository) {
         this.memberRepository = memberRepository;
     }
