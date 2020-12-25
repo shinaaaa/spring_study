@@ -1,7 +1,6 @@
 package com.shindorim.sample.spring_study.repository;
 
 import com.shindorim.sample.spring_study.domain.Member;
-import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
 
