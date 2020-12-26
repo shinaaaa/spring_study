@@ -3,6 +3,9 @@
 ![Java-v](https://img.shields.io/badge/Java-v11.0.8-blue)
 ### Study Record
 
+2020.12.26
+Create Spring "Bean" with Java Code
+
 2020.12.25
 Write Spring Bin(Component Scan)<br>
 2020.12.25
