@@ -4,6 +4,8 @@
 ### Study Record
 
 2020.12.27
+Create MemberList
+2020.12.27
 Create PostMapping
 
 2020.12.26
