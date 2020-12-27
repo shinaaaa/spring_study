@@ -4,7 +4,9 @@
 ### Study Record
 
 2020.12.27
-Create MemberList
+Create DDL<br>
+2020.12.27
+Create MemberList<br>
 2020.12.27
 Create PostMapping
 
