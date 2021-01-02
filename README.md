@@ -3,6 +3,9 @@
 ![Java-v](https://img.shields.io/badge/Java-v11.0.8-blue)
 ### Study Record
 
+2021.01.02
+Add Jdbc
+
 2020.12.27
 Create DDL<br>
 2020.12.27
