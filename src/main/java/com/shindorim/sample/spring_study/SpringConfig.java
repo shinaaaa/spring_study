@@ -1,6 +1,7 @@
 package com.shindorim.sample.spring_study;
 
 import com.shindorim.sample.spring_study.repository.JdbcMemberRepository;
+import com.shindorim.sample.spring_study.repository.JdbcTemplateMemberRepository;
 import com.shindorim.sample.spring_study.repository.MemberRepository;
 import com.shindorim.sample.spring_study.repository.MemoryMemberRepository;
 import com.shindorim.sample.spring_study.service.MemberService;
@@ -26,6 +27,7 @@ public class SpringConfig {
 
     @Bean
     public MemberRepository memberRepository() {
-        return new JdbcMemberRepository(dataSource);
+//        return new JdbcMemberRepository(dataSource);
+        return new JdbcTemplateMemberRepository(dataSource);
     }
 }
