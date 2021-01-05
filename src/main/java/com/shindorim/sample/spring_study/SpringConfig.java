@@ -1,5 +1,6 @@
 package com.shindorim.sample.spring_study;
 
+import com.shindorim.sample.spring_study.aop.TimeTraceAop;
 import com.shindorim.sample.spring_study.repository.*;
 import com.shindorim.sample.spring_study.service.MemberService;
 import org.springframework.context.annotation.Bean;
@@ -31,6 +32,11 @@ public class SpringConfig {
     public MemberService memberService() {
         return new MemberService(memberRepository);
     }
+
+//    @Bean
+//    public TimeTraceAop timeTraceAop() {
+//        return new TimeTraceAop();
+//    }
 
 //    @Bean
 //    public MemberRepository memberRepository() {
