@@ -3,7 +3,12 @@
 ![Java-v](https://img.shields.io/badge/Java-v11.0.8-blue)
 ### Study Record
 
-2021.01.02
+
+
+2021.01.06
+Create SpringData Jpa
+
+2021.01.03
 Create Jpa
 
 2021.01.02
