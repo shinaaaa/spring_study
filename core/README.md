@@ -1,6 +1,6 @@
 # 스프링 코어 개발
 
-![Springboot-v](https://img.shields.io/badge/Spring_boot-v2.4.1-brightgreen)
+![Spring-v](https://img.shields.io/badge/Spring-v2.4.1-brightgreen)
 ![Java-v](https://img.shields.io/badge/Java-v11.0.8-blue)
 ### Study Record
 
