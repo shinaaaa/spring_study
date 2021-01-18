@@ -1,5 +1,8 @@
-## 스프링 코어 개발
+# 스프링 코어 개발
 
+![Springboot-v](https://img.shields.io/badge/Spring_boot-v2.4.1-brightgreen)
+![Java-v](https://img.shields.io/badge/Java-v11.0.8-blue)
+### Study Record
 
 2021.01.19 주문, 할인 도메인 개발
 
