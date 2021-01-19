@@ -4,6 +4,7 @@
 ![Java-v](https://img.shields.io/badge/Java-v11.0.8-blue)
 ### Study Record
 
+2021.01.19 주문, 할인 도메인 실행, 테스트<br>
 2021.01.19 주문, 할인 도메인 개발
 
 2021.01.18 가입 및 조회 도메인 개발<br>
