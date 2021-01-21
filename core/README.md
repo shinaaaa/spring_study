@@ -4,6 +4,7 @@
 ![Java-v](https://img.shields.io/badge/Java-v11.0.8-blue)
 ### Study Record
 
+2021.01.21 AppConfig 리팩토링<br>
 2021.01.21 생성자 주입
 
 2021.01.19 주문, 할인 도메인 실행, 테스트<br>
