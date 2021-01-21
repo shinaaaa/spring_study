@@ -4,6 +4,7 @@
 ![Java-v](https://img.shields.io/badge/Java-v11.0.8-blue)
 ### Study Record
 
+2021.01.21 할인 정책 변경<br>
 2021.01.21 AppConfig 리팩토링<br>
 2021.01.21 생성자 주입
 
