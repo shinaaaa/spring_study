@@ -4,6 +4,8 @@
 ![Java-v](https://img.shields.io/badge/Java-v11.0.8-blue)
 ### Study Record
 
+2021.01.24 동일한 타입 처리
+
 2021.01.22 빈 조회하기<br>
 2021.01.22 Migrate to Spring
 
