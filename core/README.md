@@ -4,6 +4,7 @@
 ![Java-v](https://img.shields.io/badge/Java-v11.0.8-blue)
 ### Study Record
 
+2021.01.25 순수한 DI Container<br>
 2021.01.25 BeanDefinition<br>
 2021.01.25 다양한 설정 형식 지원 .java, .xml<br>
 2021.01.25 빈 상속 관계
