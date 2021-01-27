@@ -4,6 +4,8 @@
 ![Java-v](https://img.shields.io/badge/Java-v11.0.8-blue)
 ### Study Record
 
+2021.01.28 @Configuration
+
 2021.01.27 스프링의 싱글톤 보장
 
 2021.01.26 싱글톤 주의점<br>
