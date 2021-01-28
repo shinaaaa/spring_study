@@ -8,6 +8,8 @@ import org.springframework.context.annotation.FilterType;
 // 스프링 빈의 기본 이름은 맨 앞글자만 소문자 형태인 클래스 명을 사용
 @Configuration
 @ComponentScan(
+        basePackages = "hello.core",
+        basePackageClasses = AutoAppConfig.class,
         excludeFilters = @ComponentScan.Filter(type = FilterType.ANNOTATION, classes = Configuration.class)
 )
 public class AutoAppConfig {
