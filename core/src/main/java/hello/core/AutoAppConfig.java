@@ -1,5 +1,7 @@
 package hello.core;
 
+import hello.core.member.MemoryMemberRepository;
+import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.FilterType;
@@ -14,6 +16,13 @@ import org.springframework.context.annotation.FilterType;
 )
 public class AutoAppConfig {
 
+    // 수동 Bean 등록
+    // 동일한 Bean 이름이 있으면
+    // 수동 Bean 등록 후  자동 Bean에 Override 됨
+//    @Bean(name = "memoryMemberRepository")
+//    MemoryMemberRepository memberRepository() {
+//        return new MemoryMemberRepository();
+//    }
 
 
 }
