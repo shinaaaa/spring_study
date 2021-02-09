@@ -4,6 +4,7 @@
 ![Java-v](https://img.shields.io/badge/Java-v11.0.8-blue)
 ### Study Record
 
+2021.02.10 Annotation 만들기<br>
 2021.02.10 @AutoWried, @Qualifier, @Primary
 
 2021.02.04 Lombok lib 추가
