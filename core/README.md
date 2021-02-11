@@ -4,6 +4,7 @@
 ![Java-v](https://img.shields.io/badge/Java-v11.0.8-blue)
 ### Study Record
 
+2021.02.11 @PostConstruct, @PreDestroy<br>
 2021.02.11 initMethod, destroyMethod<br>
 2021.02.11 Interface InitializingBean, DisposableBean
 
