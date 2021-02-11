@@ -4,6 +4,7 @@
 ![Java-v](https://img.shields.io/badge/Java-v11.0.8-blue)
 ### Study Record
 
+2021.02.11 Interface InitializingBean, DisposableBean
 
 2021.02.10 Bean LifeCycle<br>
 2021.02.10 Map, List 모든 빈 조회하기<br>
