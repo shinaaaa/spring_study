@@ -5,6 +5,7 @@
 
 ### Study Record
 
+2021.02.11 request Scope<br>
 2021.02.11 JSR330 Provider<br>
 2021.02.11 "PrototypeScope"와 같이 "Singleton" 사용시 문제점<br>
 2021.02.11 PrototypeScope<br>
